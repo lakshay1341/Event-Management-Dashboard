@@ -9,7 +9,7 @@ PPT Link: https://app.presentations.ai/view/TIrTJs
 - **Frontend**: JSP, HTML, CSS
 - **Backend**: Java, Servlets, JDBC
 - **Database**: MySQL
-- **Architecture**: MVC
+- **Architecture**: MVC, Rest-full
 
 ---
 

@@ -3,6 +3,8 @@
 ## Project Overview
 This project is a web application built using Java, Servlets, JSP, CSS, JDBC, and MySQL, designed for managing events. Users can add, view, and delete events through a user-friendly interface. It follows the MVC (Model-View-Controller) architecture, ensuring a clean separation of concerns.
 
+PPT Link: https://app.presentations.ai/view/TIrTJs
+
 ## Technologies Used
 - **Frontend**: JSP, HTML, CSS
 - **Backend**: Java, Servlets, JDBC
